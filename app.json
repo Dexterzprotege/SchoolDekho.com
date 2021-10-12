@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SchoolDekho",
+    "slug": "SchoolDekho",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SchoolDekho"
+}
